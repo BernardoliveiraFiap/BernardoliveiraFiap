@@ -19,9 +19,7 @@
 <a href="https://www.linkedin.com/in/oliveiraenzobackend/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
 </div> 
 
-  What type of DEV am I? The image below answers!
-
-<img width="112%" height="670px" style="display: block;-webkit-user-select: none;right: auto;cursor: zoom-in;background-color: hsl(20, 20%, 90%);transition: background-color 300ms;" src="https://www.alura.com.br/artigos/assets/full-stack/relacao-entre-full-stack-e-dev-em-t.png" width="850" height="707">
+ 
  
 ### Main skills:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
@@ -53,6 +51,10 @@
 ### Studying in this moment:
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)&nbsp;
+
+ What type of DEV am I? The image below answers!
+
+<img width="112%" height="720px" style="display: block;-webkit-user-select: none;right: auto;cursor: zoom-in;background-color: hsl(20, 20%, 90%);transition: background-color 300ms;" src="https://www.alura.com.br/artigos/assets/full-stack/relacao-entre-full-stack-e-dev-em-t.png" width="850" height="707">
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
