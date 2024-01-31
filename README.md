@@ -48,7 +48,8 @@
 
  What type of DEV am I? The image below answers!
 
-<img width="112%" height="720px" style="display: block;-webkit-user-select: none;right: auto;cursor: zoom-in;background-color: hsl(20, 20%, 90%);transition: background-color 300ms;" src="https://www.alura.com.br/artigos/assets/full-stack/relacao-entre-full-stack-e-dev-em-t.png" width="850" height="707">
+![image](https://github.com/BernardoliveiraFiap/BernardoliveiraFiap/assets/126569987/4c5574c8-9fac-4907-b893-a93bb1ea197b)
+
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
