@@ -48,7 +48,8 @@
 
  What type of DEV am I? The image below answers!
 
-![al](https://github.com/BernardoliveiraFiap/BernardoliveiraFiap/assets/126569987/54afdc61-a797-4ad7-89ac-4265d4c97b87)
+![image](https://github.com/BernardoliveiraFiap/BernardoliveiraFiap/assets/126569987/c32d6654-7686-49db-9615-d055baef2cef)
+
 
 
 
