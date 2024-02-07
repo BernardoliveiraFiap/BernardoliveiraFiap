@@ -50,7 +50,6 @@
 ![image](https://github.com/BernardoliveiraFiap/BernardoliveiraFiap/assets/126569987/7a4277dc-fafc-4799-8985-570f83622150)
 
 
-
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{BernardoliveiraFiap}/count.svg" /></p> 
