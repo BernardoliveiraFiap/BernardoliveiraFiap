@@ -10,7 +10,6 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
 ![](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white)&nbsp;
 
-
 ### Tools:
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
@@ -40,7 +39,6 @@
 
  What type of DEV am I? The image below answers!
 ![image](https://github.com/BernardoliveiraFiap/BernardoliveiraFiap/assets/126569987/7a4277dc-fafc-4799-8985-570f83622150)
-
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
