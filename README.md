@@ -39,7 +39,8 @@
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)&nbsp;
 
  What type of DEV am I? The image below answers!
-![image](https://github.com/BernardoliveiraFiap/BernardoliveiraFiap/assets/126569987/1b30dd49-9263-4b6a-bfe1-071f8d910953)
+![image](https://github.com/BernardoliveiraFiap/BernardoliveiraFiap/assets/126569987/e39b9bd6-b2b2-4361-a56c-4f6d2322bca1)
+
 
 
 <div align="center">
